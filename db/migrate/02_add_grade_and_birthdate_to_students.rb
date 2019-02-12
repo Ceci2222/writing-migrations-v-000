@@ -1,1 +1,1 @@
-class AddColumns::ActiveRecord::Migration[5.2]
+class AddColumns::ActiveRecord::Migration[5.1]
